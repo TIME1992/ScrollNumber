@@ -1,0 +1,8 @@
+bin/*
+gen/*
+proguard/*
+.settings/*
+gradle/*
+.idea/*
+lint.xml
+auto.prop
